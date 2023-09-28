@@ -1,0 +1,15 @@
+{
+  "name": "express-excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collect.js": "^4.36.1"
+  }
+}
